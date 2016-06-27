@@ -37,4 +37,4 @@ is installed or upgraded and that setting is enabled.
 
 Licensed under the MIT license. See LICENSE for more information.
 
-Copyright (c) 2014 Mainio Tech Ltd.
+Copyright (c) 2014 Oleksandr Byk Tech Ltd.
